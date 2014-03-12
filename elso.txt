@@ -1,3 +1,7 @@
 Elsõ fájlom
 második sor
+<<<<<<< HEAD
 harmadik sorom - eredeti repo
+=======
+harmadik sorom - tmp könyvtár
+>>>>>>> 8c139273351d45f5ed217f6b2d90a7150779ab33
